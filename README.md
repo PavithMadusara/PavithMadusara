@@ -1,18 +1,13 @@
-<!-- shields.io badges - https://dev.to/envoy_/150-badges-for-github-pnk#social -->
 
 <div align="center">
-    <div style="font-size: 30px;">Pavith Madusara</div>
-    <div style="font-size: 15px">B.Sc(Hons) Software Engineering </div>
-</div>
-<div align="center">
+    <a href="https://gitlab.com/PavithMadusara">
+        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
+    </a>
     <a href="https://www.linkedin.com/in/pavith-madusara/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://stackoverflow.com/users/10413080/aupma">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-    </a>
-    <a href="https://gitlab.com/PavithMadusara">
-        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
     </a>
     <a href="https://forum.xda-developers.com/m/aupma.7563266/">
         <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" alt="Gitlab">
@@ -24,9 +19,6 @@
 <p align="left">
     <a href="https://github.com/PavithMadusara/spring-rest-jwt-starter">
         <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=spring-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="">
-    </a>
-    <a href="https://github.com/PavithMadusara/ng-rest-jwt-starter">
-        <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=ng-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="">
     </a>
 </p>
 
@@ -148,4 +140,5 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=PavithMadusara&theme=blue-green" alt="" height="160em">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithMadusara&theme=blue-green" alt="" height="160em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUPMA&theme=blue-green" alt="" height="160em">
 </div>
