@@ -1,13 +1,10 @@
 <!-- shields.io badges - https://dev.to/envoy_/150-badges-for-github-pnk#social -->
 
-<p style="display: flex;place-content: center">
-    <img src='https://avatars.githubusercontent.com/u/67993142?v=4' width='200"' alt="DP">
-</p>
-<div style="display: flex; flex-direction: column;align-items: center">
+<div align="center">
     <div style="font-size: 30px;">Pavith Madusara</div>
     <div style="font-size: 15px">B.Sc(Hons) Software Engineering </div>
 </div>
-<div style="display: flex;place-content: center;gap: 5px;margin-top: 10px;">
+<div align="center">
     <a href="https://www.linkedin.com/in/pavith-madusara/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -24,14 +21,14 @@
 
 ### 📌 Pinned Repositories
 
-<div style="display: flex; gap: 5px">
+<p align="left">
     <a href="https://github.com/PavithMadusara/spring-rest-jwt-starter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=spring-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="" height="160em">
+        <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=spring-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="">
     </a>
     <a href="https://github.com/PavithMadusara/ng-rest-jwt-starter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=ng-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="" height="160em">
+        <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=ng-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="">
     </a>
-</div>
+</p>
 
 ### 💻 Languages (with Professional Experience)
 
