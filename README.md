@@ -16,11 +16,16 @@
 
 ### 📌 Pinned Repositories
 
+
 <p align="left">
     <a href="https://github.com/PavithMadusara/spring-rest-jwt-starter">
-        <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=spring-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="">
+        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=spring-rest-jwt-starter&show_avatar=true&theme=dark&style=flat" alt="" height='100em'>
+    </a>
+    <a href="https://github.com/PavithMadusara/spring-keycloak-postgres-multi-tenancy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavithMadusara&repo=spring-keycloak-postgres-multi-tenancy&show_avatar=true&theme=dark&style=flat" alt="" height='100em'>
     </a>
 </p>
+
 
 ### 💻 Languages (with Professional Experience)
 
